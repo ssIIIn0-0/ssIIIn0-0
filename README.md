@@ -1,11 +1,8 @@
 
 <div align="center">
     
-![Waving](https://capsule-render.vercel.app/api?type=Waving&height=200%&text=Jeongopo&fontAlign=50&fontAlignY=40&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=Waving&height=200%&text=ssIIIn&fontAlign=50&fontAlignY=40&color=gradient)
 <div align="center">  
-      <a href="https://velog.io/@jeongopo"><img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@jeongopo/"></a>
-      <a href="https://www.notion.so/UE5-6daabc26f26e4dde855d6cf5800d598f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/UE5-6daabc26f26e4dde855d6cf5800d598f"></a>
-      <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jeongopo"/></img> <br><br>
     인생 게임을 만들고 싶은 클라이언트 개발자<br><br>
 </div>
                                   
