@@ -1,29 +1,26 @@
-Hi, I'm Si Eun. I'm developing to make services that will improve our lives.
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-- :mortar_board: College student
-- :video_game: Learning Web full stack
-- 🤔 Looking for open source to contribute
 
-<!--
-**This Dynamic Image's from -> [Capsule-Render](https://github.com/kyechan99/capsule-render) - Press F5!**
--->
-
-<!--
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
--->
-
-<!--
-**ssIIIn0-0/ssIIIn0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    
+![Waving](https://capsule-render.vercel.app/api?type=Waving&height=200%&text=Jeongopo&fontAlign=50&fontAlignY=40&color=gradient)
+<div align="center">  
+      <a href="https://velog.io/@jeongopo"><img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@jeongopo/"></a>
+      <a href="https://www.notion.so/UE5-6daabc26f26e4dde855d6cf5800d598f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/UE5-6daabc26f26e4dde855d6cf5800d598f"></a>
+      <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jeongopo"/></img> <br><br>
+    인생 게임을 만들고 싶은 클라이언트 개발자<br><br>
+</div>
+                                  
+<div>       
+    <h3> 🛠 Technology Stack 🛠 </h3>
+    <p>
+      <img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=C%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/C-informational?style=flat-square&logo=C&logoColor=white">
+      <img src="https://img.shields.io/badge/C%23-green?style=flat-square&logo=C Sharp&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white">
+      <br>
+       <img src="https://img.shields.io/badge/Unreal Engine-000000?style=flat-square&logo=Unreal Engine&logoColor=white">
+       <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white">
+    </p>
+</div>
+<br><br>
+        
+</div>
