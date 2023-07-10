@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/C%23-green?style=flat-square&logo=C Sharp&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/Unreal Engine-000000?style=flat-square&logo=Unreal Engine&logoColor=white">
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white">
     </p>
 </div>
@@ -33,15 +32,6 @@
     </p>
 </div>
 
----
-
-<div>
-    <h3> 🌈 Follow Me 🌈 </h3>
-    <p>
-    <a href="https://velog.io/@gomee312"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gomee312"/></a>&nbsp
-    <a href="mailto:sieun00312@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sieun00312@gmail.com"/></a>
-    </p>
-</div>
 
 ---
 
