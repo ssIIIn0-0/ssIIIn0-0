@@ -34,7 +34,7 @@
 <div>       
     <h3>portfolio</h3>
     <p>
-        https://docs.google.com/document/d/1UBz_AIeKt8854hBQsZsPXi4UXKsrnDPgwD5h5wna7l4/edit?usp=drive_link
+        https://drive.google.com/file/d/10-JUPm01DWygZLC0Sk_8VU1Tk-zUp5Dt/view?usp=drive_link
     </p>
 </div>
 
