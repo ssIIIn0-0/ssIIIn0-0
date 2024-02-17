@@ -31,12 +31,7 @@
     <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
     </p>
 </div>
-<div>       
-    <h3>✔Portfolio✔</h3>
-    <p>
-        https://drive.google.com/file/d/10-JUPm01DWygZLC0Sk_8VU1Tk-zUp5Dt/view?usp=drive_link
-    </p>
-</div>
+
 
 ---
 
