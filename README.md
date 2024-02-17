@@ -14,7 +14,8 @@
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white">
-    <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=UnrealEngine&logoColor=white">
+    <img src="https://img.shields.io/badge/UE5-000000?style=flat-square&logo=UnrealEngine&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white">
     </p>
 </div>
 <div>       
@@ -25,7 +26,6 @@
     <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <br>
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white">
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
