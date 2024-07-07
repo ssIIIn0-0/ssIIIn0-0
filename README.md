@@ -1,37 +1,36 @@
-### 안녕하세요:) 사람들의 숨겨진 니즈를 담은 서비스를 개발하고 싶은 박시은입니다. 👋
-
----    
-
-<div>       
-    <h3> 🛠 Technology Stack 🛠 </h3>
-    <p>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-informational?style=flat-square&logo=C&logoColor=white">
-    <img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=C%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/C%23-green?style=flat-square&logo=C Sharp&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white">
-    <img src="https://img.shields.io/badge/UE5-000000?style=flat-square&logo=UnrealEngine&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white">
-    </p>
-</div>
-<div>       
-    <h3>📚 I've used 📚</h3>
-    <p>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-    <br>
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
-    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
-    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-    </p>
-</div>
-
-
----
-
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88c0f2,100:96f3a5&height=180&text=Welcome:)%20ssIIIn's%20Space&animation=fadeIn&fontColor=2e2e2e&fontSize=50" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요:) 사람들의 숨겨진 니즈를 담은 서비스를 개발하고 싶은 박시은입니다. 👋
+    <div style="text-align: left;"> <a href=https://ssin-estella.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://ssin-estella.tistory.com/"> </a>
+    <a href=mailto:sieun00312@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sieun00312@gmail.com"> </a>
+    </h2>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Experience </h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Ureca, LG 유플러스 SW 아카데미 (2024.06 ~ ongoing)</li><li> 스마일게이트 FUTURE LAB 퓨처 챌린지 2기 | Unity 게임개발 (2024.04)</li><li> 기업 셈웨어, ICT 학점연계 프로그램 인턴 | 교육 게이미피케이션 콘텐츠 개발 (2023.09 ~ 2023.12)</li><li> 기업 DNX, 산학연계 프로젝트 참여 | 대본 자동화 시스템 설계 (2023.03 ~ 2023.06)</li><li> AI 교육원 SW봉사단 교육봉사, SW 교육프로그램 총괄 (2021 ~ 2022)</li><li> 한국외국어대학교 | 컴퓨터공학부 전공 (2020.03 ~ 2024.02) </div> 
+    </div>
+    <div style="text-align: left;">  </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+          </div>
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=ssIIIn0-0&bg_color=60,94dbff,adffb3&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssIIIn0-0&layout=compact&bg_color=60,94dbff,adffb3&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
+    
