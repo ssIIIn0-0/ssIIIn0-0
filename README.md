@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 사람들의 숨겨진 니즈를 담은 서비스를 개발하고 싶은 박시은입니다. 👋
-    <div style="text-align: left;"> <a href=https://ssin-estella.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://ssin-estella.tistory.com/"> </a>
+    <div style="text-align: left;">  <a href=https://ssin-estella.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://ssin-estella.tistory.com/"> </a>
     <a href=mailto:sieun00312@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sieun00312@gmail.com"> </a>
     </h2>
     <div style="text-align: left;">
