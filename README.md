@@ -8,7 +8,7 @@
     </h2>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Experience </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Ureca, LG 유플러스 SW 아카데미 (2024.06 ~ ongoing)</li><li> 스마일게이트 FUTURE LAB 퓨처 챌린지 2기 | Unity 게임개발 (2024.04)</li><li> 기업 셈웨어, ICT 학점연계 프로그램 인턴 | 교육 게이미피케이션 콘텐츠 개발 (2023.09 ~ 2023.12)</li><li> 기업 DNX, 산학연계 프로젝트 참여 | 대본 자동화 시스템 설계 (2023.03 ~ 2023.06)</li><li> AI 교육원 SW봉사단 교육봉사, SW 교육프로그램 총괄 (2021 ~ 2022)</li><li> 한국외국어대학교 | 컴퓨터공학부 전공 (2020.03 ~ 2024.02) </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Ureca, LG 유플러스 SW 아카데미 (2024.06 ~ ongoing)</li><li> 스마일게이트 AI 위클리톤 | 여행객과 토박이 가이드 매칭 WAZOO (2024.07)</li><li> 스마일게이트 FUTURE LAB 퓨처 챌린지 2기 | Unity 게임개발 (2024.04)</li><li> 기업 셈웨어, ICT 학점연계 프로그램 인턴 | 교육 게이미피케이션 콘텐츠 개발 (2023.09 ~ 2023.12)</li><li> 기업 DNX, 산학연계 프로젝트 참여 | 대본 자동화 시스템 설계 (2023.03 ~ 2023.06)</li><li> AI 교육원 SW봉사단 교육봉사, SW 교육프로그램 총괄 (2021 ~ 2022)</li><li> 한국외국어대학교 | 컴퓨터공학부 전공 (2020.03 ~ 2024.02) </div> 
     </div>
     <div style="text-align: left;">  </div> 
     </div>
