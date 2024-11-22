@@ -1,7 +1,3 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88c0f2,100:96f3a5&height=180&text=Welcome:)%20ssIIIn's%20Space&animation=fadeIn&fontColor=2e2e2e&fontSize=50" />
-    </div>
-    
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/ssIIIn0-0"
@@ -9,7 +5,9 @@
     height="120"
   />
 </a>
-  
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88c0f2,100:96f3a5&height=180&text=Welcome:)%20ssIIIn's%20Space&animation=fadeIn&fontColor=2e2e2e&fontSize=50" />
+    </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 사람들의 숨겨진 니즈가 담긴 서비스를 개발하고 싶은 박시은입니다. 👋
     <div style="text-align: left;">  <a href=https://ssin-estella.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://ssin-estella.tistory.com/"> </a>
