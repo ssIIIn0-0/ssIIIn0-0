@@ -1,9 +1,9 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/ssIIIn0-0"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/ssIIIn0-0"
+  width="600"
+  height="300"
+/>
 </a>
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88c0f2,100:96f3a5&height=180&text=Welcome:)%20ssIIIn's%20Space&animation=fadeIn&fontColor=2e2e2e&fontSize=50" />
