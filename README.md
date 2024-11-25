@@ -1,10 +1,3 @@
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/ssIIIn0-0"
-  width="600"
-  height="300"
-/>
-</a>
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88c0f2,100:96f3a5&height=180&text=Welcome:)%20ssIIIn's%20Space&animation=fadeIn&fontColor=2e2e2e&fontSize=50" />
     </div>
@@ -40,4 +33,12 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssIIIn0-0&layout=compact&bg_color=60,94dbff,adffb3&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> </h2>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/ssIIIn0-0"
+  width="600"
+  height="300"
+/>
+</a>
     
