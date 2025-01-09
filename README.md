@@ -34,11 +34,4 @@
            /> </div> 
     </div>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> </h2>
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/ssIIIn0-0"
-  width="600"
-  height="300"
-/>
-</a>
     
